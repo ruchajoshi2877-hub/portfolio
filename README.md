@@ -26,4 +26,3 @@ A simple template with a combination of white and indigo.
 
 > Need help with setting up your portfolio website?
 
-Contact us at https://ossph.org
